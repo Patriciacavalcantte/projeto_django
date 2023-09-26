@@ -1,0 +1,10 @@
+python -m venv venv (cria o ambiente virtual)
+venv\Scripts\activate
+pip install django (instala o django)
+django-admin startproject project . (cria o projeto)
+
+python manage.py runserver (sobe o servidor)
+
+#Para criar um novo app
+
+python manage.py startapp home
