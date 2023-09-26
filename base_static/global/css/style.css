@@ -1,0 +1,12 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100;400;600&family=Mulish:wght@400;700&family=Open+Sans:wght@400;700&family=Poppins&display=swap');
+
+body {
+  background: #b34db2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+}
